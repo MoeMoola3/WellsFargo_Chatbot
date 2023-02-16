@@ -2,10 +2,12 @@ from flask import Flask, request
 import os
 import openai
 import sys
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+load_dotenv()
+openai.api_key = os.getenv("API_KEY")
 
 @app.route('/')  # this is the home page route
 def hello_world(
