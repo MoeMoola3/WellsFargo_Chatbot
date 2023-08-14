@@ -30,5 +30,9 @@ called WFchatbot. The code to create the webhook can also be viewed here.
 - At the top of the project make sure the repl is running
 - You can now use the link to access the chatbot interface 
 https://WFchatbot.moemoola01.repl.co
-![Screenshot 2023-08-14 115555](https://github.com/MoeMoola3/WellsFargo_Chatbot/assets/73942516/562e10c9-3ba9-4be3-a127-57b68f4bf026)
+![Chat_01](https://github.com/MoeMoola3/WellsFargo_Chatbot/assets/73942516/f87b3818-1ab7-4ecb-a293-33d0bb473c60)
 
+![Chat_02](https://github.com/MoeMoola3/WellsFargo_Chatbot/assets/73942516/cac0f7a2-aed7-420e-99d6-99d3dda66ca2)
+
+
+![Chat_03](https://github.com/MoeMoola3/WellsFargo_Chatbot/assets/73942516/2edb8421-f2e2-4d71-874f-e77d879fd900)
