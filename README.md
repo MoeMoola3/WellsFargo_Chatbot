@@ -31,7 +31,7 @@ called WFchatbot. The code to create the webhook can also be viewed here.
 - You can now use the link to access the chatbot interface 
 https://WFchatbot.moemoola01.repl.co
 
-### Snapshots of the fine-tuning operation
+### Snapshot of the fine-tuning operation
 <img src="https://github.com/MoeMoola3/WellsFargo_Chatbot/assets/73942516/1177565e-217a-4cc8-9ede-75878220d849"  width="850" height="600" />
 
 ### Snapshots of conversations with Wally
